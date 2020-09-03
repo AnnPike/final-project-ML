@@ -10,3 +10,4 @@ mislabeling.py performs mislabeling of the labels and calculates the besov smoot
 
 Visualisation_of_results.ipynb - After I load my results on my google drive cloud and visualize what i've got here. - Google colab notebook.
 
+final_project_ML_presentation_Anna_Shchukina.pdf - final presentation.
